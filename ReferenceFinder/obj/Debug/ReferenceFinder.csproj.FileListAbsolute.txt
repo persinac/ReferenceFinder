@@ -1,0 +1,13 @@
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\bin\Debug\ReferenceFinder.exe.config
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\bin\Debug\ReferenceFinder.exe
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\bin\Debug\ReferenceFinder.pdb
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.frmMain.resources
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.Properties.Resources.resources
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.csproj.GenerateResource.Cache
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.exe
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.pdb
+c:\users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.csproj.ResolveComReference.cache
+C:\Users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.frmDBObjects.resources
+C:\Users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.csprojResolveAssemblyReference.cache
+C:\Users\apersinger\documents\visual studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.frmSPsToExclude.resources
+C:\Users\apersinger\Documents\Visual Studio 2013\Projects\ReferenceFinder\ReferenceFinder\obj\Debug\ReferenceFinder.frmEditFile.resources
